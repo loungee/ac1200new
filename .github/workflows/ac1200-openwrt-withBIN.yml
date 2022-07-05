@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: ac1200-openwrt
+name: ac1200-openwrt-withBIN
 
 on:
   repository_dispatch:
